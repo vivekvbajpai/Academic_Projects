@@ -1,0 +1,9 @@
+1. Copy the code directory to your local drive.
+2. You need to install Django on your environment. Please execute following PIP command:
+	pip install django
+3. You need to install Textblob on your environment. Please execute following PIP command:
+	pip install -U textblob
+
+4. Run all the inputs in Project.pynb. The output will be printed inside the same file at the end.
+5. Please note that due to size constrain, only a subset of the total data is provided. 
+6. The part whcich gathers the raw data and filter it has been commented out. The system will work on local data only. 	
