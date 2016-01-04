@@ -1,0 +1,2 @@
+The project required to parallelize a serial code to calculate the convolution of 2D matrix using different methods like 
+MPI(basic opertions), MPI(Collective operations), MPI + OpenMP hybrid and MPI Task parallelism.  

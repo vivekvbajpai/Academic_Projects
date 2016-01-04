@@ -1,0 +1,1 @@
+gauss.d: ../gauss.c

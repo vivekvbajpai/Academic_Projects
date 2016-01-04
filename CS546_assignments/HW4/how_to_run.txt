@@ -1,0 +1,7 @@
+Step 1: Compile
+
+nvcc cudaMatrixNorm.cu -o cudaMatrixNorm
+
+Step 2: Run
+
+./cudaMatrixNorm 6000 
