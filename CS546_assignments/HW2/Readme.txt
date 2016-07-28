@@ -15,5 +15,5 @@ gcc -fopenmp gauss.c -o gauss
 The openmp code can be executed using folloing command:
 ./gauss 2000
 
-This will run the openmp code using 4 threads for a 2000X2000 matrix.
+This will run the openmp code using 4 threads for a 2000X2000 matrix
  
