@@ -7,4 +7,4 @@ CS579_assignments--
 
 CS546_assignments--
 	Project and assignments done for "Parallel and Distributed Processing" course.
-	Technologies- C, MPI, OpenMP, Pthread, CUDA
+	Technologies- C, MPI, OpenMP, Pthread, CUDA.
